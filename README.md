@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🐉 I'm Pat Alfonso
+👩 My pronouns are she/her
+🎓 I graduated with a B.S. in Cyber Security
+📁 I'm currently working on building my portfolio
+📚 I'm currently learning HTML, CSS, and Javascript
+🚩 Fun fact: I like my pancakes without syrup
+💙 My hobbies include film photography, comic books, and movies
+
 <!--
 **fn-2199/fn-2199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
